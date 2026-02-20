@@ -21,17 +21,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0523-continuous-subarray-sum) |
 | [0692-top-k-frequent-words](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0523-continuous-subarray-sum) |
 | [0692-top-k-frequent-words](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0692-top-k-frequent-words) |
 ## Two Pointers
 |  |
@@ -57,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0692-top-k-frequent-words) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
