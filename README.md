@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0349-intersection-of-two-arrays) |
 ## Trie
 |  |
@@ -95,16 +96,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0222-count-complete-tree-nodes) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0222-count-complete-tree-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0222-count-complete-tree-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Simulation
 |  |
