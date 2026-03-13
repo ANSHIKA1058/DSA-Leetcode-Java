@@ -1,6 +1,6 @@
 class Solution {
     public long minNumberOfSeconds(int mountainHeight, int[] workerTimes) {
-        long left =0;
+        long left =1;
         long right=Long.MAX_VALUE;
         while(left<right){
             long mid = left+(right-left)/2;
