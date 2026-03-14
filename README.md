@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0344-reverse-string) |
 | [0692-top-k-frequent-words](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0692-top-k-frequent-words) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0349-intersection-of-two-arrays) |
