@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0278-first-bad-version) |
