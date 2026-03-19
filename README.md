@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0463-island-perimeter) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0844-backspace-string-compare) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
