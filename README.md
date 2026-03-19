@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0088-merge-sorted-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0231-power-of-two) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0463-island-perimeter) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
