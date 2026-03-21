@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0509-fibonacci-number) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0509-fibonacci-number) |
 ## Queue
@@ -282,5 +284,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
