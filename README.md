@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1572-matrix-diagonal-sum) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3643-flip-square-submatrix-vertically) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1572-matrix-diagonal-sum) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3643-flip-square-submatrix-vertically) |
 ## Bit Manipulation
