@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1572-matrix-diagonal-sum) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0463-island-perimeter) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1572-matrix-diagonal-sum) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0509-fibonacci-number) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Queue
 |  |
 | ------- |
