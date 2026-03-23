@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0724-find-pivot-index) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0692-top-k-frequent-words) |
 ## Two Pointers
 |  |
