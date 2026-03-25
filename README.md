@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1903-largest-odd-number-in-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Divide and Conquer
 |  |
 | ------- |
