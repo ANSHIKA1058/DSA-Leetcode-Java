@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0162-find-peak-element) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0509-fibonacci-number) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
