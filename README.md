@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0169-majority-element) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0048-rotate-image) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0086-partition-list) |
