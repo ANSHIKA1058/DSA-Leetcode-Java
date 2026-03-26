@@ -1,13 +1,16 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        //optimized approch single pass
-        int min = Integer.MAX_VALUE;
-        int max=0;
-        for(int i=0;i<prices.length;i++){
-            min = Math.min(min,prices[i]);
-            max = Math.max(max,prices[i]-min);
+        //using dp
+        int n = prices.length;
+        if(n==0) return 0;
+        int[] dp = new int[n];
+        dp[0]=0;
+        int min=prices[0];
+        for(int i=1;i<n;i++){
+            min = Math.min(prices[i],min);
+            dp[i]=Math.max(dp[i-1],prices[i]-min);
         }
-        return max;
-
+        return dp[n-1];
+        
     }
 }
