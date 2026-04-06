@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0463-island-perimeter) |
+| [0496-next-greater-element-i](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0692-top-k-frequent-words) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -339,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0206-reverse-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
