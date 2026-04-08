@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0222-count-complete-tree-nodes) |
@@ -353,4 +355,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
