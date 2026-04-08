@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0049-group-anagrams) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0088-merge-sorted-array) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0338-counting-bits) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0225-implement-stack-using-queues) |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
