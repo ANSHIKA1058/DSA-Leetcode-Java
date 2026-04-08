@@ -1,10 +1,11 @@
 class Solution {
     public int smallestNumber(int n) {
-        //n=5   1<<3 6-1=5
-        //10  1<<4  16-1=15
-        
-
-        //dusri
-        return (1<<(Integer.toBinaryString(n).length()))-1;
+        //tisra 
+        int res=1;
+        while(res<n){
+            res=(res<<1)|1;
+        }
+        return res;
     }
+
 }
