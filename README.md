@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1518-water-bottles](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1518-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1903-largest-odd-number-in-string) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0844-backspace-string-compare) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1518-water-bottles](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1518-water-bottles) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2154-keep-multiplying-found-values-by-two) |
