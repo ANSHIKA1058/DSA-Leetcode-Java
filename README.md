@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0761-special-binary-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0761-special-binary-string) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0692-top-k-frequent-words) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0092-reverse-linked-list-ii) |
@@ -382,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0090-subsets-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
