@@ -16,6 +16,8 @@ class Solution {
             }
             st.push(i);
         }
+
+        //yha st m bs vo bache jinka nse =n h mtln hai hi nhi 
         while(!st.isEmpty()){
             ele =st.pop();
             nse=n;
