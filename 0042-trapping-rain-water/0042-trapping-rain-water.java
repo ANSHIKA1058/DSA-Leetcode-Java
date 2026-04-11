@@ -1,30 +1,19 @@
 class Solution {
     public int trap(int[] height) {
-        //optimal approcch tc = n sc= 1 two pinter
+        //using stack t=n s = n
         int n = height.length;
-        int l=0;
-        int r =n-1;
-        int rmax=0;
-        int lmax=0;
         int water=0;
-        while(l<r){
-            if(height[l]<height[r]){
-                if(height[l]>lmax){
-                    lmax=height[l];
-                }else{
-                    water+=lmax-height[l];
-                }
-                l++;
-            }else{
-                if(height[r]>rmax){
-                    rmax=height[r];
-                }else{
-                    water+=rmax-height[r];
-                }
-                r--;
+        Stack<Integer> st = new Stack<>();
+        for(int i=0;i<n;i++){
+            while(!st.isEmpty() && height[i]>height[st.peek()]){
+                int top=st.pop();
+                if(st.isEmpty()) break;
+                int dis= i-st.peek()-1;
+                int trapHeight= Math.min(height[i],height[st.peek()])-height[top];
+                water+=dis*trapHeight; 
             }
+            st.push(i);
         }
         return water;
-        
     }
 }
