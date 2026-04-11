@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0901-online-stock-span) |
 ## Quickselect
 |  |
 | ------- |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0901-online-stock-span) |
 ## Backtracking
 |  |
 | ------- |
@@ -407,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0148-sort-list) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
