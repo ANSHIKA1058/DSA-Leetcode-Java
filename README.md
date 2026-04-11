@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0844-backspace-string-compare) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1518-water-bottles](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1518-water-bottles) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
