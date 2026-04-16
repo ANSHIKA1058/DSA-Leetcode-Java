@@ -1,18 +1,25 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        int[] ans ={-1};
-        HashMap<Integer,Integer> mp = new HashMap<>();
+        //two pointer + sortinh + 2d array
         int n = nums.length;
+        int[][] mp = new int[n][2];
         for(int i=0;i<n;i++){
-            int partner = target-nums[i];
-            if(mp.containsKey(partner)){
-                ans=new int[]{i,mp.get(partner)};
-                return ans;
-            }
-        
-                mp.put(nums[i],i);
-            
+            mp[i][0]=nums[i];
+            mp[i][1]=i;
         }
-        return ans;
+        Arrays.sort(mp,(a,b)->a[0]-b[0]);
+        int l=0;
+        int r=n-1;
+        while(l<r){
+            int sum= mp[l][0]+mp[r][0];
+            if(sum==target){
+                return new int[]{mp[l][1],mp[r][1]};
+            }else if(sum>target){
+                r--;
+            }else{
+                l++;
+            }
+        }
+        return new int[]{-1,-1};
     }
 }
