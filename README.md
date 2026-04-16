@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0169-majority-element) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0088-merge-sorted-array) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0142-linked-list-cycle-ii) |
