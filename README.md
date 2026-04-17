@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0523-continuous-subarray-sum) |
 | [1006-clumsy-factorial](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1006-clumsy-factorial) |
+| [1137-n-th-tribonacci-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1518-water-bottles) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1137-n-th-tribonacci-number) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Queue
 |  |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1137-n-th-tribonacci-number) |
 ## Linked List
 |  |
 | ------- |
