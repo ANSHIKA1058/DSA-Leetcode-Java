@@ -10,7 +10,7 @@ class Solution {
         while(!q.isEmpty()){
             int size = q.size(); 
             List<Integer> list = new ArrayList<>();
-             TreeNode node;
+             TreeNode node;//optimization for memory 
             for(int i = 0; i < size; i++){
                 node = q.poll();
                 list.add(node.val);
