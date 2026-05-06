@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0463-island-perimeter](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Simulation
 |  |
