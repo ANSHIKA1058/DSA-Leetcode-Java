@@ -24,7 +24,7 @@ class Solution {
         int RightHeight= checkHeight(root.right);
         if(RightHeight==-1) return -1;
         if(Math.abs(LeftHeight-RightHeight)>1) return -1;
-        return 1+Math.max(checkHeight(root.left),checkHeight(root.right));
+        return 1+Math.max(LeftHeight,RightHeight);
 
     }
 }
