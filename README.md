@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0387-first-unique-character-in-a-string) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0257-binary-tree-paths) |
 ## Merge Sort
 |  |
 | ------- |
