@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0761-special-binary-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0761-special-binary-string) |
+| [1382-balance-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1382-balance-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1382-balance-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1382-balance-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1382-balance-a-binary-search-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -402,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0680-valid-palindrome-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1903-largest-odd-number-in-string) |
@@ -535,4 +540,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0450-delete-node-in-a-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
