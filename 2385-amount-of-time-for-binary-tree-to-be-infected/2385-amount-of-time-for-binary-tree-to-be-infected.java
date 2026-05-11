@@ -16,54 +16,53 @@
 class Solution {
     HashMap<TreeNode,TreeNode> mp = new HashMap<>();
     public int amountOfTime(TreeNode root, int start) {
-        TreeNode startnode = getStartNode(root,start);
+        TreeNode startNode =getStartNode(root,start);
         Queue<TreeNode> q = new LinkedList<>();
-        HashSet<TreeNode> vis = new HashSet<>();
-        q.offer(startnode);
+        HashSet<TreeNode> vis= new HashSet<>();
+        q.add(startNode);
+        vis.add(startNode);
         int time=-1;
-        vis.add(startnode);
         while(!q.isEmpty()){
-            int size=q.size();
+            int s = q.size();
             time++;
-            for(int i=0;i<size;i++){
-                TreeNode curr=q.poll();
+            TreeNode curr;
+            for(int i=0;i<s;i++){
+                curr=q.poll();
                 if(curr.left!=null && !vis.contains(curr.left)){
-                    q.offer(curr.left);
+                    q.add(curr.left);
                     vis.add(curr.left);
                 }
                 if(curr.right!=null && !vis.contains(curr.right)){
-                    q.offer(curr.right);
                     vis.add(curr.right);
+                    q.add(curr.right);
                 }
                 if(mp.containsKey(curr) && !vis.contains(mp.get(curr))){
                     vis.add(mp.get(curr));
-                    q.offer(mp.get(curr));
+                    q.add(mp.get(curr));
                 }
             }
+            
         }
         return time;
     }
-
-
     public TreeNode getStartNode(TreeNode root,int start){
+        TreeNode startNode = null;
         Queue<TreeNode> q = new LinkedList<>();
-        q.offer(root);
-        TreeNode startnode=null;
+        q.add(root);
         while(!q.isEmpty()){
             TreeNode curr=q.poll();
             if(curr.val==start){
-                startnode=curr;
+                startNode=curr;
             }
             if(curr.left!=null){
+                q.add(curr.left);
                 mp.put(curr.left,curr);
-                q.offer(curr.left);
             }
             if(curr.right!=null){
+                q.add(curr.right);
                 mp.put(curr.right,curr);
-                q.offer(curr.right);
             }
-
         }
-        return startnode;
+        return startNode;
     }
 }
