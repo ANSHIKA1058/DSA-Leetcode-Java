@@ -28,7 +28,7 @@ class Solution {
             for(int i=0;i<list.size();i++){
                 sum+=list.get(i);
             }
-             list.remove(list.size() - 1);
+            list.remove(list.size() - 1);
             if(sum==t){
                 return true;
             }else{
@@ -37,7 +37,7 @@ class Solution {
         }
         boolean left =check(list,root.left,t);
         boolean right=check(list,root.right,t);
-         list.remove(list.size() - 1);
+        list.remove(list.size() - 1);
         return left||right; 
 
     }
