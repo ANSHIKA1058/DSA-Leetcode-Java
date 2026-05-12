@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0692-top-k-frequent-words) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1248-count-number-of-nice-subarrays) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0455-assign-cookies) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0463-island-perimeter) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -411,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -584,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1382-balance-a-binary-search-tree) |
