@@ -13,24 +13,23 @@ class Solution {
         if(head==null || left==right){
             return head;
         }
-        ListNode dummy = new ListNode(0);
+        ListNode dummy= new ListNode(0);
         dummy.next=head;
-        ListNode prev = dummy;
+        ListNode prev=dummy;
         for(int i=1;i<left;i++){
-            prev= prev.next;
+            prev=prev.next;
         }
-        ListNode subPrev = null;
+        ListNode subprev=null;
         ListNode curr=prev.next;
-        ListNode next = null;
-
+        ListNode next=null;
         for(int i=1;i<=right-left+1;i++){
-            next = curr.next;
-            curr.next = subPrev;
-            subPrev= curr;
+            next=curr.next;
+            curr.next=subprev;
+            subprev=curr;
             curr=next;
         }
         prev.next.next=curr;
-        prev.next=subPrev;
+        prev.next=subprev;
         return dummy.next;
     }
 }
