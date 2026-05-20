@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3643-flip-square-submatrix-vertically) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2540-minimum-common-value](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Tree
 |  |
