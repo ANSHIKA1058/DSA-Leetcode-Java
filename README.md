@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1903-largest-odd-number-in-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3643-flip-square-submatrix-vertically) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2540-minimum-common-value](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0692-top-k-frequent-words) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
