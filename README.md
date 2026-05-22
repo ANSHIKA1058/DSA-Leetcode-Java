@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0290-word-pattern) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1137-n-th-tribonacci-number) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0257-binary-tree-paths) |
 | [1079-letter-tile-possibilities](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1079-letter-tile-possibilities) |
 ## Merge Sort
