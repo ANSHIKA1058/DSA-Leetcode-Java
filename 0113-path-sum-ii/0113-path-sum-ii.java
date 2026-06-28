@@ -27,10 +27,10 @@ class Solution {
         list.add(root.val);
         if( root.left==null && root.right==null && root.val==targ ){
             ans.add(new ArrayList<>(list));
-        }else{
+        }
         helper(ans,list,root.left,targ-root.val);
         helper(ans,list,root.right,targ-root.val);
-        }
+        
         list.remove(list.size()-1);
 
     }
