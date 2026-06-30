@@ -15,14 +15,13 @@
  */
 class Solution {
     public int sumNumbers(TreeNode root) {
-       
-       return dfs(root,0);
+        return dfs(root,0);
     }
     public int dfs(TreeNode root,int n){
         if(root==null){
             return 0;
         }
-        n=n*10+root.val;
+        n = n*10+root.val;
         if(root.left==null && root.right==null){
             return n;
         }
