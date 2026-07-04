@@ -1,58 +1,53 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
+
+    public void nthLevel(TreeNode root,int i,List<Integer> list){
+        if(root==null){
+            return;
+        }
+        if(i==1){
+            list.add(root.val);
+            return;
+        }
+        nthLevel(root.left,i-1,list);
+        nthLevel(root.right,i-1,list);
+    }
+     public void nthLevel2(TreeNode root,int i,List<Integer> list){
+         if(root==null){
+            return;
+        }
+        if(i==1){
+            list.add(root.val);
+            return;
+        }
+        nthLevel2(root.right,i-1,list);
+        nthLevel2(root.left,i-1,list);
+    }
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        List<List<Integer>> ans = new ArrayList<>();        
-        int level = height(root)+1;
+        List<List<Integer>> ans = new ArrayList<>();
         if(root==null){
             return ans;
         }
+        int level= height(root)+1;
         for(int i=1;i<=level;i++){
-        List<Integer> list = new ArrayList<>();
-        if(i%2!=0) nthLevel(root,i,list);
-        else nthLevel2(root,i,list);
-        ans.add(list);
+            List<Integer> list =new ArrayList<>();
+            if(i%2!=0){
+                nthLevel(root,i,list);
+            }else{
+                nthLevel2(root,i,list);
+            }
+            ans.add(list);
         }
         return ans;
-        
+
     }
     public int height(TreeNode root){
-        if(root==null) return 0;
-        if(root.left==null && root.right==null) return 0;
-        return 1+Math.max(height(root.left),height(root.right));
-    }
-    public void nthLevel(TreeNode root,int n, List<Integer> list){
-        if(root==null) return;
-        if(n==1){
-            list.add(root.val);
-            return;
-        }
-        nthLevel(root.left,n-1,list);
-        nthLevel(root.right,n-1,list);
-    }
-    public void nthLevel2(TreeNode root,int n ,List<Integer> list){
         if(root==null){
-            return;
+            return 0;
         }
-        if(n==1){
-            list.add(root.val);
-            return;
+        if(root.left==null && root.right==null){
+            return 0;
         }
-        nthLevel2(root.right,n-1,list);
-        nthLevel2(root.left,n-1,list);
+        return 1+Math.max(height(root.left),height(root.right));
 
     }
 }
