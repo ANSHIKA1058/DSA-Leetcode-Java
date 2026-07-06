@@ -1,30 +1,16 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
+
 class Solution {
-    HashMap<TreeNode,TreeNode> mp = new HashMap<>();
+    HashMap<TreeNode,TreeNode> mp=new HashMap<>();
     public int amountOfTime(TreeNode root, int start) {
-        TreeNode startNode =getStartNode(root,start);
+        TreeNode startnode= getStartNode(root,start);
         Queue<TreeNode> q = new LinkedList<>();
-        HashSet<TreeNode> vis= new HashSet<>();
-        q.add(startNode);
-        vis.add(startNode);
-        int time=-1;
+        HashSet<TreeNode> vis = new HashSet<>();
+        q.add(startnode);
+        vis.add(startnode);
+        int t=-1;
         while(!q.isEmpty()){
-            int s = q.size();
-            time++;
+            int s=q.size();
+            t++;
             TreeNode curr;
             for(int i=0;i<s;i++){
                 curr=q.poll();
@@ -33,36 +19,42 @@ class Solution {
                     vis.add(curr.left);
                 }
                 if(curr.right!=null && !vis.contains(curr.right)){
-                    vis.add(curr.right);
                     q.add(curr.right);
+                    vis.add(curr.right);
                 }
                 if(mp.containsKey(curr) && !vis.contains(mp.get(curr))){
-                    vis.add(mp.get(curr));
                     q.add(mp.get(curr));
+                    vis.add(mp.get(curr));
+
                 }
+
             }
-            
         }
-        return time;
+        return t;
     }
     public TreeNode getStartNode(TreeNode root,int start){
-        TreeNode startNode = null;
+        TreeNode startnode=null;
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
         while(!q.isEmpty()){
-            TreeNode curr=q.poll();
-            if(curr.val==start){
-                startNode=curr;
-            }
-            if(curr.left!=null){
-                q.add(curr.left);
-                mp.put(curr.left,curr);
-            }
-            if(curr.right!=null){
-                q.add(curr.right);
-                mp.put(curr.right,curr);
+            int s= q.size();
+            TreeNode curr;
+            for(int i=0;i<s;i++){
+                curr=q.poll();
+                if(curr.val==start){
+                    startnode=curr;
+                }
+                if(curr.left!=null){
+                    q.add(curr.left);
+                    mp.put(curr.left,curr);
+                }
+                 if(curr.right!=null){
+                    q.add(curr.right);
+                    mp.put(curr.right,curr);
+                }
+
             }
         }
-        return startNode;
+        return startnode;
     }
 }
