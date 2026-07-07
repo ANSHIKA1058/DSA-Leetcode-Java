@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1518-water-bottles) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1903-largest-odd-number-in-string) |
