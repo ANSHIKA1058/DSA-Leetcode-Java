@@ -1,18 +1,17 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        //optimal refixsum+ map
         int n = nums.length;
-        int count=0;
-        HashMap<Integer,Integer> mp = new HashMap<>();
-        mp.put(0,1);
-        int sum=0;
-        for(int num:nums){
-            sum+=num;
-            if(mp.containsKey(sum-k)){
-                count+=mp.get(sum-k);
+        int c=0;
+        for(int i=0;i<n;i++){
+            int sum=0;
+            for(int j=i;j<n;j++){
+                sum+=nums[j];
+                if(sum==k){
+                    c++;
+                }
             }
-            mp.put(sum,mp.getOrDefault(sum,0)+1);
         }
-        return count;
+        return c;
+
     }
 }
