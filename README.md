@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0162-find-peak-element) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0011-container-with-most-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0680-valid-palindrome-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1382-balance-a-binary-search-tree) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0338-counting-bits) |
