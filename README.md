@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0692-top-k-frequent-words) |
 | [0761-special-binary-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0761-special-binary-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0658-find-k-closest-elements) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0451-sort-characters-by-frequency](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0692-top-k-frequent-words) |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0912-sort-an-array) |
 ## Counting
@@ -326,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0767-reorganize-string) |
 | [1079-letter-tile-possibilities](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1079-letter-tile-possibilities) |
