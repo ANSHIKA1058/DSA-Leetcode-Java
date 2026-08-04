@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3731-find-missing-elements](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3731-find-missing-elements) |
 ## Array
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3689-maximum-total-subarray-value-i) |
+| [3731-find-missing-elements](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3731-find-missing-elements](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
