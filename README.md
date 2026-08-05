@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0767-reorganize-string) |
 | [0905-sort-array-by-parity](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0973-k-closest-points-to-origin) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1710-maximum-units-on-a-truck) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0735-asteroid-collision) |
 | [0905-sort-array-by-parity](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1248-count-number-of-nice-subarrays) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1046-last-stone-weight) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0523-continuous-subarray-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0973-k-closest-points-to-origin) |
 | [1006-clumsy-factorial](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1006-clumsy-factorial) |
 | [1137-n-th-tribonacci-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1248-count-number-of-nice-subarrays) |
@@ -648,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0973-k-closest-points-to-origin) |
 ## Memoization
 |  |
 | ------- |
@@ -758,4 +764,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
