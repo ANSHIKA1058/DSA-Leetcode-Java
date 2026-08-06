@@ -1,29 +1,23 @@
-import java.util.*;
-
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
-
         int n = nums.length;
-        int[] ans = new int[n - k + 1];
+        int[] ans = new int[n-k+1];
+        int j=0;
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b)->b[0]-a[0]);
+        for(int i=0;i<n;i++){
+            pq.offer(new int[]{nums[i],i});
 
-        // Max Heap -> {value, index}
-        PriorityQueue<int[]> maxHeap = new PriorityQueue<>(
-            (a, b) -> b[0] - a[0]
-        );
-
-        int j = 0;
-
-        for (int i = 0; i < n; i++) {
-            maxHeap.offer(new int[]{nums[i], i});
-
-            while (maxHeap.peek()[1] <= i - k) {
-                maxHeap.poll();
+            //remove element outside the frame
+            while(pq.peek()[1]<=i-k){
+                pq.poll();
             }
-            if (i >= k - 1) {
-                ans[j++] = maxHeap.peek()[0];
+            //frame size
+
+            if(i>=k-1){
+                ans[j++]=pq.peek()[0];
             }
+           
         }
-
-        return ans;
+         return ans;
     }
 }
