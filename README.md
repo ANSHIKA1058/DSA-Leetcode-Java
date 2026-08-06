@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Depth-First Search
@@ -772,4 +773,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0973-k-closest-points-to-origin) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
