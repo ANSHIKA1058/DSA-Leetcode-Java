@@ -1,44 +1,34 @@
-import java.util.*;
 class MedianFinder {
-    PriorityQueue<Integer> minheap=new PriorityQueue<>();
-    PriorityQueue<Integer> maxheap=new PriorityQueue<>(Collections.reverseOrder());
-    public MedianFinder() {
-        
-    }
-    
+    PriorityQueue<Integer> minh = new PriorityQueue<>();
+     PriorityQueue<Integer> maxh = new PriorityQueue<>(Collections.reverseOrder());
+
     public void addNum(int num) {
-        if(maxheap.size()==0){
-            maxheap.add(num);
+        if(maxh.size()==0){
+            maxh.offer(num);
         }else{
-            if(num<maxheap.peek()){
-                maxheap.add(num);
+            if(maxh.peek()>=num){
+                maxh.offer(num);
             }else{
-                minheap.add(num);
+                minh.offer(num);
             }
         }
-        if(maxheap.size()==minheap.size()+2){
-            minheap.add(maxheap.remove());
-        }
-         if(minheap.size()==maxheap.size()+2){
-            maxheap.add(minheap.remove());
+
+        //balancing
+        if(maxh.size()==minh.size()+2){
+            minh.offer(maxh.remove());
+        }else if(minh.size()==maxh.size()+2){
+            maxh.offer(minh.remove());
         }
     }
     
     public double findMedian() {
-         if(maxheap.size()==minheap.size()+1){
-           return maxheap.peek();
-        }
-        else if(minheap.size()==maxheap.size()+1){
-            return minheap.peek();
+        if(maxh.size()==minh.size()+1){
+            return maxh.peek();
+        }else if(minh.size()==maxh.size()+1){
+            return minh.peek();
         }else{
-            return (maxheap.peek()+minheap.peek())/2.0;
+            return (minh.peek()+maxh.peek())/2.0;
         }
     }
 }
 
-/**
- * Your MedianFinder object will be instantiated and called as such:
- * MedianFinder obj = new MedianFinder();
- * obj.addNum(num);
- * double param_2 = obj.findMedian();
- */
