@@ -10,38 +10,21 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        if(lists==null || lists.length==0){
-            return null;
-        }
-        return divide(lists,0,lists.length-1);
-    }
-    public ListNode divide(ListNode[] lists,int l , int r){
-        if(r==l){
-            return lists[l];
-        }
-        int mid = (l+r)/2;
-        ListNode L1 = divide(lists,l,mid);
-        ListNode L2 = divide(lists,mid+1,r);
-        return merge(L1,L2);
-    }
-    public ListNode merge(ListNode L1, ListNode L2){
-        ListNode dummy = new ListNode(0);
-        ListNode curr = dummy;
-        while(L1!=null && L2!=null){
-            if(L1.val<L2.val){
-                curr.next=L1;
-                L1=L1.next;
-            }else{
-                curr.next=L2;
-                L2=L2.next;
+        PriorityQueue<ListNode> minh = new PriorityQueue<>((a,b)->a.val-b.val);
+        for(ListNode node:lists){
+            if(node!=null){
+                minh.offer(node);
             }
+        }
+        ListNode dummy = new ListNode(0);
+        ListNode curr= dummy;
+        while(!minh.isEmpty()){
+            ListNode node = minh.poll();
+            curr.next=node;
             curr=curr.next;
-        }
-        if(L1!=null){
-            curr.next=L1;
-        }
-        if(L2!=null){
-            curr.next=L2;
+            if(node.next!=null){
+                minh.offer(node.next);
+            }
         }
         return dummy.next;
     }
