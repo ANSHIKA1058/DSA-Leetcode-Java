@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1903-largest-odd-number-in-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2540-minimum-common-value) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1903-largest-odd-number-in-string) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3689-maximum-total-subarray-value-i) |
 ## Recursion
 |  |
@@ -597,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1137-n-th-tribonacci-number) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Queue
 |  |
 | ------- |
