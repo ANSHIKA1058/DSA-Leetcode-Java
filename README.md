@@ -789,4 +789,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0239-sliding-window-maximum) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
