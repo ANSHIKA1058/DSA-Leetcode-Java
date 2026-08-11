@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0219-contains-duplicate-ii) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0547-number-of-provinces) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0463-island-perimeter) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1572-matrix-diagonal-sum) |
@@ -748,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
