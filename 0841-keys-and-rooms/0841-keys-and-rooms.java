@@ -3,19 +3,28 @@ class Solution {
         int n = rooms.size();
         boolean[] vis = new boolean[n];
         vis[0]=true;
-        dfs(0,rooms,vis);
-        for(boolean ele: vis){
+        bfs(0,rooms,vis);
+        for(boolean ele:vis){
             if(!ele){
                 return false;
             }
         }
         return true;
     }
-    public void dfs(int i,List<List<Integer>> rooms,boolean[] vis){
 
+
+    public void bfs(int i,List<List<Integer>> rooms,boolean[] vis){
+        Queue<Integer> q = new LinkedList<>();
+        q.add(i);
         vis[i]=true;
-        for(int ele:rooms.get(i)){
-            if(!vis[ele]) dfs(ele,rooms,vis);
+        while(!q.isEmpty()){
+            int front=q.poll();
+            for(int ele:rooms.get(front)){
+                if(!vis[ele]){
+                    q.add(ele);
+                    vis[ele]=true;
+                }
+            }
         }
     }
 }
