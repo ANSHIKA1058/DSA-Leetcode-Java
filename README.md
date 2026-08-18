@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0973-k-closest-points-to-origin) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0662-maximum-width-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0841-keys-and-rooms) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0662-maximum-width-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0841-keys-and-rooms) |
@@ -787,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0841-keys-and-rooms) |
@@ -885,4 +889,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2029-stone-game-ix) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
