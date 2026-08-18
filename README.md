@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
