@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1480-running-sum-of-1d-array) |
+| [1514-path-with-maximum-probability](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1514-path-with-maximum-probability) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1563-stone-game-v](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1572-matrix-diagonal-sum) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1046-last-stone-weight) |
+| [1514-path-with-maximum-probability](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1514-path-with-maximum-probability) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Bucket Sort
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0841-keys-and-rooms) |
+| [1514-path-with-maximum-probability](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1971-find-if-path-exists-in-graph) |
 ## Doubly-Linked List
 |  |
@@ -893,8 +896,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
