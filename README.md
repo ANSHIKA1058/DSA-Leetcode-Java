@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1514-path-with-maximum-probability](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1514-path-with-maximum-probability) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1079-letter-tile-possibilities) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1386-cinema-seat-allocation) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0767-reorganize-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1386-cinema-seat-allocation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1710-maximum-units-on-a-truck) |
