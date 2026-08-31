@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1046-last-stone-weight) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -652,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0509-fibonacci-number) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1137-n-th-tribonacci-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1137-n-th-tribonacci-number) |
 | [1563-stone-game-v](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -812,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0841-keys-and-rooms) |
 | [1514-path-with-maximum-probability](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1514-path-with-maximum-probability) |
@@ -915,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
