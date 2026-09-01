@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3271-hash-divided-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3271-hash-divided-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
 |  |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3271-hash-divided-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3271-hash-divided-string) |
 ## Greedy
 |  |
 | ------- |
