@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1563-stone-game-v](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1572-matrix-diagonal-sum) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1584-min-cost-to-connect-all-points) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1672-richest-customer-wealth) |
@@ -806,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0785-is-graph-bipartite) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0841-keys-and-rooms) |
 | [1514-path-with-maximum-probability](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1971-find-if-path-exists-in-graph) |
 ## Doubly-Linked List
 |  |
@@ -932,4 +935,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
