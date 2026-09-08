@@ -1,10 +1,13 @@
 class Solution {
     static int[] parent;
+    static int[] size;
     public int findCircleNum(int[][] isConnected) {
         int n = isConnected.length;
         parent=new int[n+1];
+        size=new int[n+1];
         for(int i=1;i<=n;i++){
             parent[i]=i;
+            size[i]=1;
         }
         
 
@@ -32,8 +35,12 @@ class Solution {
         int leaderA=find(a);
         int leaderB=find(b);
 
-        if(leaderA!=leaderB){
-            parent[leaderB]=leaderA;
-        }
+       if(size[leaderA]>size[leaderB]){
+        parent[leaderB]=leaderA;
+        size[leaderA]+=size[leaderB];
+       }else{
+        parent[leaderA]=leaderB;
+        size[leaderB]+=size[leaderA];
+       }
     }
 }
