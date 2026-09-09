@@ -1,70 +1,69 @@
 class Solution {
-    public class Triplet implements Comparable<Triplet> {
-        int node;
-        int parent;
-        int dist;
 
-        Triplet(int node, int parent, int dist) {
-            this.node = node;
-            this.parent = parent;
-            this.dist = dist;
+    public class Triplet implements Comparable<Triplet>{
+        int u;
+        int v;
+        int dist;
+        Triplet(int u, int v, int dist){
+            this.u=u;
+            this.v=v;
+            this.dist=dist;
         }
 
-        public int compareTo(Triplet t) {
-            if (this.dist == t.dist) {
-                return this.node - t.node;
-            }
-            return this.dist - t.dist;
+        public int compareTo(Triplet t){
+            if(this.dist==t.dist) return this.u-t.u;
+            return this.dist-t.dist;
         }
     }
+    static int[] parent, size;
 
     public int minCostConnectPoints(int[][] points) {
         int n = points.length;
-
+        parent=new int[n+1];
+        size=new int[n+1];
+        for(int i=0;i<n;i++){
+            parent[i]=i;
+            size[i]=1;
+        }
         PriorityQueue<Triplet> pq = new PriorityQueue<>();
-
-        pq.add(new Triplet(0, -1, 0));
-
-        int sum = 0;
-        boolean[] vis = new boolean[n];
-
-        while (!pq.isEmpty()) {
-
-            Triplet top = pq.remove();
-
-            int node = top.node;
-            int parent = top.parent;
-            int dist = top.dist;
-
-            if (vis[node] == true) {
-                continue;
+         for(int u=0;u<n;u++){
+            for(int v=u+1;v<n;v++){
+                int x1= points[u][0], y1=points[u][1];
+                int x2= points[v][0], y2=points[v][1];
+                int dist = Math.abs(x1-x2) + Math.abs(y1-y2);
+                pq.add(new Triplet(u,v,dist));
             }
+         }
+         int cost=0;
 
-            sum += dist;
-            vis[node] = true;
+         while(pq.size()>0){
+            Triplet top = pq.remove();
+            int u = top.u;
+            int v = top.v;
+            int dist =  top.dist;
+            if(leader(u)!=leader(v)){
+                cost+=dist;
+                union(u,v);
+            }
+         }
+return cost;
+    }
 
-            for (int i = 0; i < n; i++) {
-
-                if (i == node || i == parent) {
-                    continue;
-                }
-
-                if (vis[i] == true) {
-                    continue;
-                }
-
-                int x1 = points[node][0];
-                int y1 = points[node][1];
-
-                int x2 = points[i][0];
-                int y2 = points[i][1];
-
-                int mDis = Math.abs(x2 - x1) + Math.abs(y2 - y1);
-
-                pq.add(new Triplet(i, node, mDis));
+    public int leader(int u){
+        if(parent[u]==u) return u;
+        return parent[u]= leader(parent[u]);
+    }
+    public void union(int u, int v){
+        int a = leader(u);
+        int b = leader(v);
+        if(a!=b){
+            if(size[a]>size[b]){
+                parent[b]=a;
+                size[a]+=size[b];
+            }else{
+                parent[a]=b;
+                size[b]+=size[a];
             }
         }
-
-        return sum;
     }
 }
