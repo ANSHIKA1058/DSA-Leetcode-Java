@@ -25,7 +25,7 @@ class Solution {
             parent[i]=i;
             size[i]=1;
         }
-        PriorityQueue<Triplet> pq = new PriorityQueue<>();
+        ArrayList<Triplet> pq = new ArrayList<>();
          for(int u=0;u<n;u++){
             for(int v=u+1;v<n;v++){
                 int x1= points[u][0], y1=points[u][1];
@@ -35,9 +35,9 @@ class Solution {
             }
          }
          int cost=0;
-
-         while(pq.size()>0){
-            Triplet top = pq.remove();
+         Collections.sort(pq);
+         for(int i=0;i<pq.size();i++){
+            Triplet top = pq.get(i);
             int u = top.u;
             int v = top.v;
             int dist =  top.dist;
