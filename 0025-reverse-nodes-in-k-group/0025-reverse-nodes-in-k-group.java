@@ -11,32 +11,31 @@
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
         ListNode dummy = new ListNode(0);
-        dummy.next= head;
-        ListNode prevGroupEnd = dummy;
+        dummy.next=head;
+        ListNode prevGroupEnd=dummy;
         while(true){
-            ListNode kth = getKthNode(prevGroupEnd,k);
-            if(kth==null){break;}
-            ListNode nextGroupStart = kth.next;
-            ListNode prev = kth.next;
-            ListNode curr = prevGroupEnd.next;
-            while(curr!=nextGroupStart){
+            ListNode kth = findit(prevGroupEnd,k);
+            if(kth==null) break;
+            ListNode prev=kth.next;
+            ListNode nextgroupstart=kth.next;
+            ListNode curr=prevGroupEnd.next;
+            while(curr!=nextgroupstart){
                 ListNode temp = curr.next;
-                curr.next = prev;
-                prev = curr;
-                curr= temp;
+                curr.next=prev;
+                prev=curr;
+                curr=temp;
             }
-           ListNode temp = prevGroupEnd.next;
-           prevGroupEnd.next= kth;
-           prevGroupEnd=temp;
+            ListNode temp = prevGroupEnd.next;
+            prevGroupEnd.next=kth;
+            prevGroupEnd=temp;
         }
-         return dummy.next;
+        return dummy.next;
     }
-        private ListNode getKthNode(ListNode curr,int k){
-            while(curr!=null && k>0){
-                curr= curr.next;
-                k--;
-            }
-            return curr;
+    public ListNode findit(ListNode curr,int k){
+        while(curr!=null && k>0){
+            curr=curr.next;
+            k--;
         }
-    
+        return curr;
+    }
 }
