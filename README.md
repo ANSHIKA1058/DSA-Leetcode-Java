@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0257-binary-tree-paths) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0543-diameter-of-binary-tree) |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Monotonic Stack
 |  |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Concurrency
 |  |
 | ------- |
