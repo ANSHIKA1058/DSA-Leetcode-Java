@@ -9,20 +9,21 @@ class Solution {
         mp.put('6', "mno");
         mp.put('7', "pqrs");
         mp.put('8', "tuv");
-        mp.put('9', "wxyz");
-        helper(ans,digits,mp,"",0);
-        return ans;
+         mp.put('9',"wxyz");
 
+         helper(ans,mp,digits,0,"");
+         return ans;
     }
-    public void helper(List<String> ans, String digits,HashMap<Character,String> mp,String curr,int idx){
+    public void helper(List<String> ans,HashMap<Character,String> mp,
+    String digits,int idx,String str){
         if(idx==digits.length()){
-            ans.add(curr);
+            ans.add(str);
             return;
         }
 
         String s = mp.get(digits.charAt(idx));
         for(char ch:s.toCharArray()){
-            helper(ans,digits,mp,curr+ch,idx+1);
+            helper(ans,mp,digits,idx+1,str+ch);
         }
     }
 }
