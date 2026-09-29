@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0973-k-closest-points-to-origin) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1137-n-th-tribonacci-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1137-n-th-tribonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
