@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0414-third-maximum-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0463-island-perimeter) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1034,4 +1036,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
