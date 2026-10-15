@@ -23,14 +23,9 @@ class Solution {
             return dp[i][amt];
         }
         long skip = coinCount(i + 1, coins, amt, dp);
-        long pick = Integer.MAX_VALUE;
-        if (amt >= coins[i]) {
-            long res = coinCount(i, coins, amt - coins[i], dp);
-
-            if (res != Integer.MAX_VALUE) {
-                pick = 1 + res;
-            }
-        }
+        if(amt-coins[i]<0) return dp[i][amt]=skip;
+        long pick = 1+coinCount(i,coins,amt-coins[i],dp);
+        
         return dp[i][amt] = Math.min(skip, pick);
     }
 }
