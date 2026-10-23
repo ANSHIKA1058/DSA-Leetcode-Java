@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0073-set-matrix-zeroes) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0680-valid-palindrome-ii) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0064-minimum-path-sum) |
