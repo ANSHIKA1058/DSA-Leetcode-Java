@@ -11,13 +11,10 @@ class Solution {
         for(int i=1;i<nd;i++){
             gcd = Findgcd(gcd,numsDivide[i]);
         }
-            PriorityQueue<Integer> pq = new PriorityQueue<>();
-            for(int i=0;i<n;i++){
-                pq.add(nums[i]);
-            }
+           Arrays.sort(nums);
             int c=0;
-            while(!pq.isEmpty()){
-                int a =pq.poll();
+            for(int i=0;i<n;i++){
+                int a =nums[i];
                 if(gcd%a==0){
                     return c;
                 }else{
