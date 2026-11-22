@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0912-sort-an-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0268-missing-number) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0238-product-of-array-except-self) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0347-top-k-frequent-elements) |
@@ -1082,4 +1086,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
