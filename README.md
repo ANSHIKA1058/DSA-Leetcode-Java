@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0692-top-k-frequent-words) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0658-find-k-closest-elements) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0692-top-k-frequent-words) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0692-top-k-frequent-words) |
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0767-reorganize-string) |
 | [1079-letter-tile-possibilities](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1079-letter-tile-possibilities) |
@@ -678,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0680-valid-palindrome-ii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0767-reorganize-string) |
