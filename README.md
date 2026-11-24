@@ -1118,4 +1118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0218-the-skyline-problem) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
