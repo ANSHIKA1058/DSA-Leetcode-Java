@@ -37,6 +37,7 @@ class Solution {
         int leaderA=find(a);
         int leaderB=find(b);
 
+        if (leaderA == leaderB) return;
        if(size[leaderA]>size[leaderB]){
         parent[leaderB]=leaderA;
         size[leaderA]+=size[leaderB];
