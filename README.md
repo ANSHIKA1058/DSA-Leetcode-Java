@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1248-count-number-of-nice-subarrays) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0463-island-perimeter) |
+| [0994-rotting-oranges](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/0994-rotting-oranges) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/ANSHIKA1058/DSA-Leetcode-Java/tree/master/1572-matrix-diagonal-sum) |
